@@ -1,5 +1,4 @@
 # dependencies
-config/.env
 node_modules
 
 npm-debug.log*
